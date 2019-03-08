@@ -29,7 +29,7 @@ Our team had an exciting time working on this project, and hope to share our ins
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Power Supplier Recommender]](https://youtu.be/9vngsi4aftA "Power Supplier Recommender")
+[![Power Supplier Recommender][https://mtech2019pt.slack.com/files/UFK8NR1SS/FGU03B0LX/presentation_video.mp4]](https://mtech2019pt.slack.com/files/UFK8NR1SS/FGU03B0LX/presentation_video.mp4 "Power Supplier Recommender")
 
 ---
 ## SECTION 5 : USER GUIDE
