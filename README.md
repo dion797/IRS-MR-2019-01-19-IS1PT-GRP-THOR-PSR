@@ -29,7 +29,7 @@ Our team had an exciting time working on this project, and hope to share our ins
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![Power Supplier Recommender]](https://youtu.be/9vngsi4aftA "Power Supplier Recommender")
 
 ---
 ## SECTION 5 : USER GUIDE
