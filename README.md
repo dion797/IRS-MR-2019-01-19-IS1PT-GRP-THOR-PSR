@@ -41,20 +41,20 @@ Our team had an exciting time working on this project, and hope to share our ins
 
 > open terminal in iss-vm
 
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
+> $ git clone https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR.git
 
-> $ source activate iss-env-py2
+> $ sudo apt-get install python-django
 
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
+> $ cd IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/SystemCode/psr
 
-> (iss-env-py2) $ python app.py
+> $ python2 manage.py runserver
 
-> **Go to URL using web browser** http://127.0.0.1:8000
+> **Go to URL using web browser** http://localhost:8000
 
 ### [ 2 ] To run the system in other/local machine:
 ### Install additional necessary libraries. This application works in python 2 only.
 
-> $ sudo apt-get install python-clips clips build-essential python-dev python-pip
+> $ sudo apt-get install python-clips clips build-essential python-dev python-pip python-django
 
 > $ pip install pyclips 
 
