@@ -7,8 +7,11 @@ Power Supplier Recommender
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 Since 1 November 2018, the Open Electricity Market had been extended to all consumers across Singapore by zones. This initiative provided about 1.4 million households and business accounts with more choice and flexibility when buying electricity, while being provided with the same electricity supply through the national power grid. 
+
 This decision making task may seem confusing due to overwhelming number of different supplier and pricing plans. While a current model exists in the open market website, it is a supplier centric based on filtering technique to rank the different price plans according to the decision maker preferences. This requires the decision maker to understand the differences between the supplier price plans in terms of pricing, green energy etc.   Our team, comprising of 6 Singaporeans from different age group and background hope to improve the model by making it more consumer centric where the model works on individual profile and preferences to arrive  on the final recommendation. Leveraging on the diversity of the team, we redefined the rules according to individual preferences which did not exists in the current model to help us build the power supplier recommender model. 
+
 Using the techniques imparted to us in lectures, our group first set out to build a sizeable knowledge base via conducting an interview and administering a survey. While building the system, we downloaded the pricing information from the different power suppliers and transform it into a database, CLIPS to synthesize the rule based reasoning process, and Python to integrate it into an easy to use UI for the everyday user. 
+
 Our team had an exciting time working on this project, and hope to share our insights with everyone. There are truly are a wide array of individual factors to come to a final decision in the switch to a different pricing plan, and we only wish there was more time to work on the scope and scale of the project.   
 
 ---
@@ -16,12 +19,12 @@ Our team had an exciting time working on this project, and hope to share our ins
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| IAN TAN ENG KIONG | A0120534W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
-| KHOO WEE BENG | A0195308Y | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
-| KOH SOOK BING | A0195413E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
-| RANA BHATTACHARJEE | A0195178N | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
-| TAN YAO TAI TEERAPONG | A0073460L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
-| YEO WHYE CHUNG NELSON | A0195405A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
+| IAN TAN ENG KIONG | A0120534W | SurveyAnalysis ProjectReport ApplicationTesting|  |
+| KHOO WEE BENG | A0195308Y | Development Integration|  |
+| KOH SOOK BING | A0195413E | ProjectReport UserGuide|  |
+| RANA BHATTACHARJEE | A0195178N | SurveyAnalysis CLIPS VideoDemo|  |
+| TAN YAO TAI TEERAPONG | A0073460L | SurveyAnalysis ProjectReport|  |
+| YEO WHYE CHUNG NELSON | A0195405A | ProjectReport CLIPS|  |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
