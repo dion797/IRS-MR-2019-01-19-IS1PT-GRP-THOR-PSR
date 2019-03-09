@@ -34,7 +34,7 @@ Our team had an exciting time working on this project, and hope to share our ins
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/UserGuide/User%20Guide.pdf>
 
 ### [ 1 ] To run the system using iss-vm
 
